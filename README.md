@@ -1,5 +1,8 @@
 ## Pomodoro Timer
 
+![Clique para visualizar a imagem 01 do projeto](https://raw.githubusercontent.com/dihnauer/pomodoro-timer/main/src/assets/captura-01.png)
+![Clique para visualizar a imagem 02 do projeto](https://raw.githubusercontent.com/dihnauer/pomodoro-timer/main/src/assets/captura-02.png)
+
 ### Funcionamento
 O app se baseia em um sistema de cronômetro no estilo Pomodoro. Você pode informar qual a tarefa em que estará empenhado e também o tempo estipulado. Ao iniciar, o cronometro começará a contagem regressiva.
 
